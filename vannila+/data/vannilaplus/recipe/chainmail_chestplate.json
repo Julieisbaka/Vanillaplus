@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "x x",
+    "xxx",
+    "xxx"
+  ],
+  "key": {
+    "x": {
+      "item": "minecraft:chain"
+    }
+  },
+  "result": {
+    "id": "minecraft:chainmail_chestplate",
+    "count": 1
+  },
+  "show_notification": true
+}
